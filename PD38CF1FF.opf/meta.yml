@@ -1,0 +1,22 @@
+id: PD38CF1FF
+initial_creation_type: input
+source_metadata:
+  title: 'Vasubandhu: Triṃśikāvijñapti'
+  language: zh
+  volumes:
+    5448954610d0403489256e31277b1398:
+      title: CI_Verses 1-10
+      base_file: CI_Verses 1-10.txt
+      work_id: W9D9BC5CB
+    7eca601dc6b64bfe8c41cd5a71682959:
+      title: CI_Verses 11-20
+      base_file: CI_Verses 11-20.txt
+      work_id: W23388CAB
+    49a532b0bb1b4dc094c2a0fd4765a590:
+      title: CI_Verses 21-31
+      base_file: CI_Verses 21-31.txt
+      work_id: WB8EDE977
+  chapter_to_tile:
+    CI: Title
+created_at: '2022-03-01T23:28:12.850831'
+last_modified_at: '2022-03-01T23:28:12.850847'
